@@ -1,6 +1,8 @@
 # 轻智能文档库
 你好，这里是轻智能穿戴设备文档库，支持HUAWEI的智能穿戴设备，具体列表请看[这里](README.md#支持的设备列表)
 
+你是直接在网上找到的这里吗？请点击[](ttp://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BHJ4Eq_TVoptonjQAi5iHW8tO7OEexAt&authKey=Qz80UW1Nj376vyQ1HtpMrAcvigkxko50WBEXbqbZrYI%2BK79b6F59g%2Ba1Sx2XmzBr&noverify=0&group_code=576552423)
+
 ## 支持的设备列表
 请仔细对照手表型号以方便查阅文档
 #### 支持一类轻智能应用的穿戴设备
@@ -64,6 +66,7 @@ HUAWEI WATCH GT 2e
 
 *(包含所有手环 以上未列出)*
 
+*[返回页顶](README.md#轻智能文档库)*
 
 HUAWEI WATCH 4/3/2/1 Pro/new属于完整Android环境的全智能表，请勿在本群寻求帮助，以下是中转站，请前往以下群聊寻求帮助：
 
