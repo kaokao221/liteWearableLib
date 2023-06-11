@@ -1,7 +1,7 @@
 # 轻智能文档库
 你好，这里是轻智能穿戴设备文档库，支持HUAWEI的智能穿戴设备，具体列表请看[这里](README.md#支持的设备列表)
 
-你是直接在网上找到的这里吗？请点击[](ttp://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BHJ4Eq_TVoptonjQAi5iHW8tO7OEexAt&authKey=Qz80UW1Nj376vyQ1HtpMrAcvigkxko50WBEXbqbZrYI%2BK79b6F59g%2Ba1Sx2XmzBr&noverify=0&group_code=576552423)
+你是直接在网上找到的这里吗？请点击[这里](ttp://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BHJ4Eq_TVoptonjQAi5iHW8tO7OEexAt&authKey=Qz80UW1Nj376vyQ1HtpMrAcvigkxko50WBEXbqbZrYI%2BK79b6F59g%2Ba1Sx2XmzBr&noverify=0&group_code=576552423)加入我们的交流群，加入之前请先检查您的设备是否在[支持的设备列表](README.md#支持的设备列表)内
 
 ## 支持的设备列表
 请仔细对照手表型号以方便查阅文档
