@@ -12,8 +12,8 @@
 - 一台安卓手机，暂不支持**苹果**设备
 
 除此以外，以下是**选配品**
-- 一台**Windows 10**或**OS X**以上的电脑（你还需要**非常有耐心**）
-- 至少要有一点钱（10R以上）
+- 一台**Windows 10**或**OS X**以上的电脑（你还需要**非常有耐心**)（该方案不需要钱包的支持）
+- 钱包（如果你没有电脑/电脑太渣/**没耐心**）
 ###### ***以上两样必须二选一***
 ### 软件准备
 请在手机上下载[手表应用安装器(应用调测助手)](https://ghproxy.com/?q=https%3A%2F%2Fgithub.com%2Fkaokao221%2FliteWearableLib%2Fblob%2Fmain%2Fbase.apk)和[文件转存器(保存副本)](https://ghproxy.com/https://raw.githubusercontent.com/kaokao221/liteWearableLib/main/%E4%BF%9D%E5%AD%98%E5%89%AF%E6%9C%AC.apk)并安装
