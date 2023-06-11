@@ -74,9 +74,9 @@ HUAWEI WATCH GT 2 42mm
 
 HUAWEI WATCH GT 2e
 
-*(包含所有手环 以上未列出)*
+###### *(包含所有手环 以上未列出)*
 
-*[返回页顶](README.md#轻智能文档库)*
+**[返回页顶](README.md#轻智能文档库)**
 
 HUAWEI WATCH 4/3/2/1 Pro/new属于完整Android环境的全智能表，请勿在本群寻求帮助，以下是中转站，请前往以下群聊寻求帮助：
 
