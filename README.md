@@ -66,8 +66,13 @@ HUAWEI WATCH GT 2e
 
 
 HUAWEI WATCH 4/3/2/1 Pro/new属于完整Android环境的全智能表，请勿在本群寻求帮助，以下是中转站，请前往以下群聊寻求帮助：
+
 某个智能手表交流群293803053
+
 WearOS工具箱交流群531154931
+
 WearOS手表交流群528057418
+
 除此以外，可以在酷安社区寻找
+
 另外bilibili.com和baidu.com，coolapk.com都是好东西，欢迎前往
