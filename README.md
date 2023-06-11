@@ -3,6 +3,11 @@
 
 你是直接在网上找到的这里吗？请点击[这里](ttp://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BHJ4Eq_TVoptonjQAi5iHW8tO7OEexAt&authKey=Qz80UW1Nj376vyQ1HtpMrAcvigkxko50WBEXbqbZrYI%2BK79b6F59g%2Ba1Sx2XmzBr&noverify=0&group_code=576552423)加入我们的交流群，加入之前请先检查您的设备是否在[支持的设备列表](README.md#支持的设备列表)内
 
+## 开始之前
+开始您的轻智能探索之旅前，你做以下准备，这些是**必需品**
+- 在[支持的设备列表](README.md#支持的设备列表)
+
+
 ## 支持的设备列表
 请仔细对照手表型号以方便查阅文档
 #### 支持一类轻智能应用的穿戴设备
