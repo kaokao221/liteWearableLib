@@ -16,7 +16,7 @@
 
 ***以上两样必须二选一***
 ### 软件准备
-请在手机上下载[手表应用安装器(应用调测助手)](https://ghproxy.com/?q=https%3A%2F%2Fgithub.com%2Fkaokao221%2FliteWearableLib%2Fblob%2Fmain%2Fbase.apk)和[文件转存器(保存副本)](https://github.com/kaokao221/liteWearableLib/blob/main/%E4%BF%9D%E5%AD%98%E5%89%AF%E6%9C%AC.apk)并安装
+请在手机上下载[手表应用安装器(应用调测助手)](https://ghproxy.com/?q=https%3A%2F%2Fgithub.com%2Fkaokao221%2FliteWearableLib%2Fblob%2Fmain%2Fbase.apk)和[文件转存器(保存副本)](https://ghproxy.com/https://raw.githubusercontent.com/kaokao221/liteWearableLib/main/%E4%BF%9D%E5%AD%98%E5%89%AF%E6%9C%AC.apk)并安装
 ### 确定手表连接状态
 1. 打开安装的**应用调测助手**
 2. 检查是否出现**手表型号**(如提示**设备未连接**，请参考[解决方案](README.md#应用调测助手无法连接))
