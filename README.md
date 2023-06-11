@@ -12,9 +12,8 @@
 
 除此以外，以下是**选配品**
 - 一台**Windows 10**或**OS X**以上的电脑（你还需要**非常有耐心**）
-- 钱包
-
-***以上两样必须二选一***
+- 至少要有一点钱（10R以上）
+###### ***以上两样必须二选一***
 ### 软件准备
 请在手机上下载[手表应用安装器(应用调测助手)](https://ghproxy.com/?q=https%3A%2F%2Fgithub.com%2Fkaokao221%2FliteWearableLib%2Fblob%2Fmain%2Fbase.apk)和[文件转存器(保存副本)](https://ghproxy.com/https://raw.githubusercontent.com/kaokao221/liteWearableLib/main/%E4%BF%9D%E5%AD%98%E5%89%AF%E6%9C%AC.apk)并安装
 ### 确定手表连接状态
@@ -22,10 +21,22 @@
 2. 检查是否出现**手表型号**(如提示**设备未连接**，请参考[解决方案](README.md#应用调测助手无法连接))
 3. 点击设备**UUID**下方的**复制**，*可以多点几下以防复制失败*，保留备用
 ### 准备安装
-###### *如果你是动手能力强的，有电脑的人群，请转到[自签名教程](README.md#自签名教程)*
 #### 常规安装教程
+###### *如果你是动手能力强的，有电脑的人群，请转到[自签名教程](README.md#自签名教程)*
+1. 请准备好￥6.66
+2. 在[爱发电](https://afdian.net/item/83772508caf011edafb052540025c377)购买签名券（一次购买，一直有效，可重复使用）
+3. 复制订单号(*找不到了？到[这里](https://afdian.net/item/83772508caf011edafb052540025c377)找回*)，保留备用
+4. 到[签名收集表](https://docs.qq.com/form/page/DY0FUSU52ZUFxSWN3)选择需要签名的应用，填写订单号、UUID([获取UUID](README.md#确定手表连接状态))和接收安装包使用的邮箱
+5. 等待邮件，具体时间见[签名收集表](https://docs.qq.com/form/page/DY0FUSU52ZUFxSWN3)内
 #### 腕上词典6.0安装教程
+1. 准备好￥7.77
+2. 在[爱发电](https://afdian.net/item/93c5a15ea3a511eda37052540025c377)购买词典签名券(仅适用于词典6.0)
+3. 复制订单号，保留备用(*找不到了？到[这里](https://afdian.net/item/93c5a15ea3a511eda37052540025c377)找回*)，保留备用
+4. 到[专用签名收集表](https://docs.qq.com/form/page/DY0tJZVlwcW1uenJt)填写订单号、UUID([获取UUID](README.md#确定手表连接状态))和接收安装包使用的邮箱
+5. 等待邮件，具体时间见[签名收集表](https://docs.qq.com/form/page/DY0tJZVlwcW1uenJt)内
 #### 腕上阅读安装教程
+1. 准备好￥8.88
+2. 在
 ## 高级教程
 ### 自签名教程
 ## 疑难杂症
