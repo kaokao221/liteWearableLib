@@ -102,9 +102,6 @@ HUAWEI WATCH GT 3 46mm
 
 HUAWEI WATCH GT 3 42mm
 
-HUAWEI WATCH 4 *(仅限长续航模式)
-
-
 ###### *(336×480显示器 支持群文件中标明**Fit2**的应用 几乎全部支持)*
 
 HUAWEI WATCH Fit 2
