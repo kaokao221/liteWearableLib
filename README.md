@@ -4,6 +4,8 @@
 你是直接在网上找到的这里吗？请点击[这里](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BHJ4Eq_TVoptonjQAi5iHW8tO7OEexAt&authKey=Qz80UW1Nj376vyQ1HtpMrAcvigkxko50WBEXbqbZrYI%2BK79b6F59g%2Ba1Sx2XmzBr&noverify=0&group_code=576552423)加入我们的交流群，加入之前请先检查您的设备是否在[支持的设备列表](README.md#支持的设备列表)内
 ## 快速目录
 - [应用列表](README.md#支持的应用列表)
+## 常见问题
+- [如何安装安装包](README.md#如何安装*.hap格式的安装包)
 ## 开始之前
 开始您的轻智能探索之旅前，你需要做以下准备
 ### 硬件设施
