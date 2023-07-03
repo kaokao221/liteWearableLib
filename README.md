@@ -2,7 +2,7 @@
 你好，这里是轻智能穿戴设备文档库，支持**HUAWEI**的轻智能穿戴设备，具体列表请看[这里](README.md#支持的设备列表)
 
 你是直接在网上找到的这里吗？请点击[这里](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BHJ4Eq_TVoptonjQAi5iHW8tO7OEexAt&authKey=Qz80UW1Nj376vyQ1HtpMrAcvigkxko50WBEXbqbZrYI%2BK79b6F59g%2Ba1Sx2XmzBr&noverify=0&group_code=576552423)加入我们的交流群，加入之前请先检查您的设备是否在[支持的设备列表](README.md#支持的设备列表)内
-## 赞助
+<!-- ## 赞助
 写文档真的很累，不骗你
 
 现在我很需要钱，如果你有能力的话，可以到[这里](https://afdian.net/item/66b601f0091b11eebb6b52540025c377)给可怜的我一点赞助（最低1R上不设限谢谢），我要钱租服务器，给大家提供更好的服务
@@ -10,6 +10,7 @@
 除此以外，我还要租云电脑挂群机器人便于群内关键词自动答疑
 
 租赁的服务器会用于将来的自签名平台谢谢各位的帮助
+-->
 ## 快速目录
 - [应用列表](README.md#支持的应用列表)
 ## 常见问题
